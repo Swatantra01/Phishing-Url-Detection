@@ -1,7 +1,9 @@
 # Phishing URL Detection
 
-![image](https://user-images.githubusercontent.com/79131292/144742825-23367f0f-9e67-4c99-ba1f-b86a187675c9.png)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
+![image](https://github.com/srijansingh08/Phishing-URL-Detection/assets/65160855/c34c34d4-537c-4543-b684-e0eeedd037f6)
+
+![image](https://github.com/srijansingh08/Phishing-URL-Detection/assets/65160855/935fbed3-7533-4b86-a45c-2fdb61371562)
+
 
 ## Table of Content
 
@@ -62,15 +64,25 @@ Accuracy of various model used for URL detection
     ML Model	Accuracy	f1_score	Recall	Precision
 
 0 Gradient Boosting Classifier 0.974 0.977 0.994 0.986
+
 1 CatBoost Classifier 0.972 0.975 0.994 0.989
+
 2 Support Vector Machine 0.964 0.968 0.980 0.965
+
 3 Random Forest 0.964 0.968 0.994 0.989
+
 4 Decision Tree 0.960 0.964 0.991 0.993
+
 5 K-Nearest Neighbors 0.956 0.961 0.991 0.989
+
 6 Logistic Regression 0.934 0.941 0.943 0.927
+
 7 Naive Bayes Classifier 0.605 0.454 0.292 0.997
+
 8 XGBoost Classifier 0.549 0.544 0.987 0.987
+
 9 Multi-layer Perceptron 0.547 0.541 0.988 0.988
+
 
 Feature importance for Phishing URL Detection
 <br><br>
